@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commission, for executing the laws in church-affairs. Sealed, the twenty fourth of February, 1664.</title>
+            <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05356</idno>
+            <idno type="STC">Wing S1488A</idno>
+            <idno type="STC">ESTC R226211</idno>
+            <idno type="EEBO-CITATION">51784649</idno>
+            <idno type="OCLC">ocm 51784649</idno>
+            <idno type="VID">175054</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175054)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2710:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Commission, for executing the laws in church-affairs. Sealed, the twenty fourth of February, 1664.</title>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Royal arms on t.p.; initial letter.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Government --  Early works to 1800.</term>
+               <term>Clergy --  Legal status, laws, etc. --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:175054:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <q>HONI SOIT <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> MAL Y PENSE </q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:175054:1"/>
+            <pb facs="tcp:175054:2"/>
+            <pb facs="tcp:175054:2"/>
+            <pb facs="tcp:175054:3"/>
+            <pb facs="tcp:175054:3" rendition="simple:additions"/>
+            <p>COMMISSION, For executing the LAWS IN CHURCH-AFFAIRS.</p>
+            <p>Sealed, the twenty fourth of <hi>February,</hi> 1664.</p>
+            <figure>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL P PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the King's moſt Excellent MAjESTY, 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175054:4"/>
+            <pb n="3" facs="tcp:175054:4"/>
+            <head>COMMISSION, FOR EXECUTING THE LAWS IN CHURCH-AFFAIRS.</head>
+            <opener>
+               <signed>
+                  <hi>CHARLES <hi>R.</hi>
+                  </hi>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>Vr Soveraign Lord Ordains an Commiſsion to be paſt and expede, under His <hi>Majeſties</hi> great Seal of the Kingdom of <hi>Scotland;</hi> making mention, that in conſideration of the multiplicity and weight of the Affairs of State, incumbent upon the Lords of the Privy Council, ſo as they cannot attend the due execution of the Laws againſt Popery, Separation and Diſobedience to Eccleſiaſtical Authority; And to the effect, that the diſorders and contempt of Authority, and the Laws, in the Provinces of <hi>St. Andrews</hi> and <hi>Glaſgow,</hi> may be timeouſly ſuppreſt, and the ſcan<g ref="char:EOLhyphen"/>dalous and diſobedient may not, through im<g ref="char:EOLhyphen"/>punity or connivance, be imboldened to violate and affront the Laws, to creat diſturbances, to foment ſedition and diſaffection to the Govern<g ref="char:EOLhyphen"/>ment of Church and State, upon pretence of any Engagements: His <hi>Majeſty,</hi> by vertue of His Prerogative-royal, and Supremacy in all Cauſes,
+<pb n="4" facs="tcp:175054:5"/>and over all Perſons, as well Eccleſiaſtical as Civil, hath given and granted, like as His <hi>Majeſty,</hi> by the tenor hereof, gives and grants full Power and Commiſsion to the Archbiſhop of <hi>St. Andrews,</hi> the Lord Chancellor, Lord Treaſurer, Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Glaſgow,</hi> Duke <hi>Hamiltoun,</hi> Marqueſs of <hi>Montroſe;</hi> the Earls of <hi>Argyl, Athol, Eglintoun, Linlithgow, Murray, Hume, Galloway, Annadail, Tweddail, Leiven;</hi> the Biſhops of <hi>Edinburgh, Galloway, Dunkell, Aberdeen, Brichen, Argyl</hi> and the <hi>Iſles;</hi> the Lords <hi>Pitſligo</hi> and <hi>Fraſer, Drumlanerick, Cochrane, Hackertoun,</hi> and the Lord <hi>Ballenden;</hi> the Preſident of the Seſsion, the Clerk of His <hi>Majeſties</hi> Regiſters and Rolls, His <hi>Majeſties</hi> Advocat, Sir <hi>John Hume</hi> Iuſtice Clerk, <hi>Charles Maitland</hi> of <hi>Hattoun,</hi> the Laird of <hi>Philorth</hi> elder; Sir <hi>Andrew Ramſay</hi> Provoſt of <hi>Edinburgh,</hi> Sir <hi>William Thomſon,</hi> the Provoſts of <hi>St. Andrews, Glaſgow, Aberdeen</hi> for the time, <hi>Air</hi> and <hi>Dumfries,</hi> Sir <hi>James Turner</hi> and the Dean of <hi>Edinburgh,</hi> or to any five of them, (an Archbiſhop or Biſhop being one of the number) to uſe their utmoſt endeavours, that the Acts of Parliament and Council made, for the Peace and Order of the Church, and in behalf of the Government thereof by Archbiſhops and Biſhops, be put into vigorous and impartial execution, againſt all and every one within the Kingdom of <hi>Scotland,</hi> who preſume to violate, contemn or diſobey theſe Acts and the Eccleſiaſtical Authority now ſetled. To ſummon and call before them, at whatſoever place or time they ſhall appoint, all Popiſh-traffikers, Inter<g ref="char:EOLhyphen"/>communers and Reſſetters of Ieſuits and Seminary-prieſts; all who ſay or hear Maſs, all obſtinat Contemners of the Diſcipline of the Church, or for that cauſe ſuſpended, deprived or excommunicated; all keepers of Conventicles;
+<pb n="5" facs="tcp:175054:5"/>all Miniſters, who contrary to the Laws, Acts of Parliament and Council aforeſaid, remain in, or intrude themſelves upon, the exerciſe of the function of the Miniſtry, in thoſe Paroches and Bounds inhibited by the ſaid Acts, all Preachers who come from <hi>England</hi> or <hi>Ireland</hi> without ſuffi<g ref="char:EOLhyphen"/>cient Teſtimonials, or leave of the Biſhops of the Dioceſs; all ſuch who preach in private houſes or elſewhere, without Licence of the Biſhop of the Dioceſs; all ſuch perſons who keep meetings at Faſts, and the adminiſtration of the Sacra<g ref="char:EOLhyphen"/>ment of the Lords Supper, which are not approven by Authority; all who ſpeak, preach, write or print, to the ſcandal, reproach, or detri<g ref="char:EOLhyphen"/>ment of the Eſtate and Government of the Church or Kingdom, as now eſtabliſhed; all who con<g ref="char:EOLhyphen"/>temn, moleſt or injure Miniſters, who are orderly and obedient to the Laws; all who do not ordi<g ref="char:EOLhyphen"/>narily attend the divine Worſhip, adminiſtration of the Word and Sacraments, performed in the reſpective Pariſh Churches, by Miniſters legally authorized, for taking the Cure of thoſe Pariſhes, in which thoſe perſons are Inhabitants; all ſuch, who without any lawfull Calling, as buſie<g ref="char:EOLhyphen"/>bodies, do go about houſes and places for corrup<g ref="char:EOLhyphen"/>ting and diſaffecting people from their alleagiance and reſpect, and obedience to the Laws. And generally, without prejudice of the particulars above-ſpecified, all who expreſs their diſaffection to His <hi>Majeſties</hi> Authority, by contraveening Acts of Parliament or Council, in relation to Church-affairs. With power to the ſaid Com<g ref="char:EOLhyphen"/>miſsioners, or any five of them, (an Archbiſhop or Biſhop being one of the number) to appoint Miniſters to be cenſured, by ſuſpenſion and depo<g ref="char:EOLhyphen"/>ſition; and to puniſh by fining, confining, com<g ref="char:EOLhyphen"/>mitting and incarcerating them, and all other
+<pb n="6" facs="tcp:175054:6"/>perſons, who ſhall be found tranſgreſſors as aforeſaid, according as they ſhall judge the quality of their offence to deſerve, they alwayes not exceeding the fines and puniſhments enjoyned by the Acts of Parliament and Council. Com<g ref="char:EOLhyphen"/>manding the Captain of His <hi>Majeſties</hi> Guards, the Officers of the ſtanding Forces, or <hi>Militia,</hi> the Sheriffs, Bailies of Regalities, Iuſtices of the Peace, the Provoſts and Bailies of Bur<g ref="char:EOLhyphen"/>roughs, to ſearch, ſeek, take and apprehend all ſuch delinquents, and preſent them before the ſaids Commiſsioners, upon the warrant of any five of them as aforeſaid: Commanding like<g ref="char:EOLhyphen"/>wiſe, the Conſtables and Captains of His <hi>Majeſties</hi> Caſtles, Keepers of Priſons, and other places of firmance, to receive and detain thoſe, who ſhall be directed unto them by the ſaids Commiſ<g ref="char:EOLhyphen"/>ſioners, upon warrant as ſaid is, as they will anſwer upon their obedience and utmoſt peril: Ordaining further, the Lords of Privy Council, upon Certificat ſubſcribed by the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners, or any five of them as aforeſaid, to direct Letters of Horning for paying of the fine impoſed by the ſaid Commiſsioners, in caſe of the delin<g ref="char:EOLhyphen"/>quents diſobedience or refuſal, to compear where they are cited before them: Of which Letters and Charges, no Suſpenſion or Relaxation ſhall be granted, without the teſtimony of the Arch<g ref="char:EOLhyphen"/>biſhop or Biſhop, bearing their obedience to the Commiſsioners, and ſatisfaction according to Law. And His <hi>Majeſty</hi> doth make, conſtitute and ordain Mr. <hi>Thomas Young,</hi> Clerk to the Com<g ref="char:EOLhyphen"/>miſsion for plantation of Kirks, to be Clerk to this Commiſsion. With power to him to appoint Officers and other attenders neceſſary; and to direct Summons or Precepts, in His <hi>Majeſties</hi> name, for citing whatſoever parties or perſons,
+<pb n="7" facs="tcp:175054:6"/>in any of the caſes foreſaids; which Precepts ſhall be ſealed by the Signet, and ſubſcribed by the ſaid Clerk. With power to ſummon witneſſes under the pains preſcribed by Law or Practice: And if the ſaids witneſſes refuſe to compear, or the ſaid perſons decerned in a fine, delay to make paiment of the ſame, His <hi>Majeſty</hi> Ordains the Lords of His Secret Council, to direct Letters and Charges, upon the Certificat of the ſaid Com<g ref="char:EOLhyphen"/>miſsioners, as is above-ſpecified: Of the which fines to be collected and uplifted by <hi>Alexander Keith,</hi> Vnder-clerk to the Council, the one half ſhall be imployed for defraying the charges neceſſary, for executing of the ſaid Commiſsion at the ſight of the ſaid Commiſsioners; the other half ſhall be imployed for pious uſes, according as His <hi>Majeſty</hi> ſhall appoint. And generally, the Commiſsio<g ref="char:EOLhyphen"/>ners aforeſaid are authorized and impowered, to do and execute, what they ſhall find neceſſary and convenient for His <hi>Majeſties</hi> ſervice, in the pre<g ref="char:EOLhyphen"/>miſes; for preventing and ſuppreſsing the ſeeds of Schiſme and Separation, for planting of vacand Churches, and for procuring Reverence, Submiſsion and Obedience unto the Eccleſiaſti<g ref="char:EOLhyphen"/>cal Government now eſtabliſhed. And to the end, that a buſineſs of ſo great importance to the peace and well-being of Church and Kingdom, may take a ſpeedy and ſucceſsfull effect, as His <hi>Majeſty</hi> hath thought fit to make choice of ſuch perſons, in whoſe judgement and affection to His ſervice and the Churches good, He doth repoſe ſpecial truſt; So it is His pleaſure, that this Commiſsion ſhall endure till the firſt of <hi>November,</hi> one thouſand ſix hundred and ſixty four, and after, till it be diſcharged by His <hi>Majeſty:</hi> and that the firſt meeting thereof be kept at <hi>Edinburgh,</hi> the firſt Wednesday of <hi>March</hi> next to come; and after,
+<pb n="8" facs="tcp:175054:7"/>Meetings ſhall be appointed in ſuch places, and as often as ſhall be found neceſſary, for attain<g ref="char:EOLhyphen"/>ing the ends of the ſaid Commiſsion. And His <hi>Majeſty</hi> doth expect from the Commiſsioners, an exact report of their proceedings therein, from time to time, as of a ſervice, whereof He will take ſpecial notice, and its ſucceeding will be very ac<g ref="char:EOLhyphen"/>ceptable to Him. Commanding laſtly, all His <hi>Majeſties</hi> Lieges, who are, or may be concerned, to anſwer and obey the ſaid Commiſsioners, or any five of them, (an Archbiſhop or Biſhop being one of the number) under all higheſt pains that after may follow: and Ordains theſe preſents to be an ſufficient warrant to the Director of the Chancellary, for writing the ſame to the great Seal, and for the Lord Chancellor for appending the Seal thereunto, without any further order or warrant.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall,</hi> 
+                  <date>the 16. day of <hi>January,</hi> 1663/4. and of Our Reign the fifteenth year.</date>
+               </dateline>
+               <signed>LA<g ref="char:V">Ʋ</g>DERDAILL.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>Paſt His <hi>Majeſties</hi> Great Seal, the twenty fourth of <hi>February,</hi> 1664.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the King's moſt Excellent MAjESTY, 1664.</p>
+            <pb facs="tcp:175054:7"/>
+            <pb facs="tcp:175054:8"/>
+            <pb facs="tcp:175054:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
